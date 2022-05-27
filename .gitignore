@@ -1,2 +1,2 @@
 .envrc
-magic_focus/__pycache__/*
+__pycache__
