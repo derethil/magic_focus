@@ -27,7 +27,7 @@ def main():
         i3.command(f"workspace back_and_forth")
 
     else:
-        i3.command(f"focus {direction}")
+        i3.command(f"focus {direction.value}")
 
 
 if __name__ == "__main__":
